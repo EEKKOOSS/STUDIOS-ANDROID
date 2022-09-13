@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Nicolas Gutierrez</string>
+    <string-array name="peliculas">
+        <item>SELECCIONE…</item>
+        <item>Dragon Ball: Super Hero</item>
+        <item>Tren Bala</item>
+        <item>Liga de Supermascotas</item>
+        <item>Elvis</item>
+
+    </string-array>
+    <string name="cine">Cine Estelar</string>
+    <string name="comprar">Comprar Entradas</string>
+    <string name="seleccione">Seleccione la Pelicula</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="fecha">Fecha</string>
+    <string name="martes">Martes 13–09</string>
+    <string name="miercoles">Miercoles 14–09</string>
+    <string name="jueves">Jueves 15–09</string>
+    <string name="viernes">Viernes 16–09</string>
+    <string name="hora">Hora</string>
+    <string name="hora1">17:30</string>
+    <string name="hora2">19:00</string>
+    <string name="hora3">21:30</string>
+    <string name="cantidad">Cantidad de Entradas</string>
+    <string name="correo">Correo Electronico:</string>
+    <string name="compra">COMPRAR</string>
+
+
+</resources>
